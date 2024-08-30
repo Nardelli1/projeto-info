@@ -1,2 +1,0 @@
-# projeto-info
-Problemas Matemática
